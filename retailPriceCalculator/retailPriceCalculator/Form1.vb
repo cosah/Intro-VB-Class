@@ -16,6 +16,9 @@
             Dim Markup As Decimal = txtMarkup.Text
             Dim Cost As Decimal = txtWholesaleCost.Text
             If Cost < 0 Then
+                MsgBox("Numeric values please. Price must be greater than zero.", , "Input Error")
+                txtWholesaleCost.Text = ""
+                txtWholesaleCost.Select()
                 Return False
             End If
             Return True
