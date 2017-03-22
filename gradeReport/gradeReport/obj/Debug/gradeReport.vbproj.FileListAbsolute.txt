@@ -1,0 +1,22 @@
+C:\Users\vmBoss\AppData\Local\Temporary Projects\gradeReport\bin\Debug\gradeReport.exe.config
+C:\Users\vmBoss\AppData\Local\Temporary Projects\gradeReport\bin\Debug\gradeReport.exe
+C:\Users\vmBoss\AppData\Local\Temporary Projects\gradeReport\bin\Debug\gradeReport.pdb
+C:\Users\vmBoss\AppData\Local\Temporary Projects\gradeReport\bin\Debug\gradeReport.xml
+C:\Users\vmBoss\AppData\Local\Temporary Projects\gradeReport\obj\Debug\gradeReport.vbprojResolveAssemblyReference.cache
+C:\Users\vmBoss\AppData\Local\Temporary Projects\gradeReport\obj\Debug\gradeReport.frmGradeReport.resources
+C:\Users\vmBoss\AppData\Local\Temporary Projects\gradeReport\obj\Debug\gradeReport.Resources.resources
+C:\Users\vmBoss\AppData\Local\Temporary Projects\gradeReport\obj\Debug\gradeReport.vbproj.GenerateResource.Cache
+C:\Users\vmBoss\AppData\Local\Temporary Projects\gradeReport\obj\Debug\gradeReport.exe
+C:\Users\vmBoss\AppData\Local\Temporary Projects\gradeReport\obj\Debug\gradeReport.xml
+C:\Users\vmBoss\AppData\Local\Temporary Projects\gradeReport\obj\Debug\gradeReport.pdb
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\gradeReport\gradeReport\bin\Debug\gradeReport.exe.config
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\gradeReport\gradeReport\bin\Debug\gradeReport.exe
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\gradeReport\gradeReport\bin\Debug\gradeReport.pdb
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\gradeReport\gradeReport\bin\Debug\gradeReport.xml
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\gradeReport\gradeReport\obj\Debug\gradeReport.vbprojResolveAssemblyReference.cache
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\gradeReport\gradeReport\obj\Debug\gradeReport.frmGradeReport.resources
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\gradeReport\gradeReport\obj\Debug\gradeReport.Resources.resources
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\gradeReport\gradeReport\obj\Debug\gradeReport.vbproj.GenerateResource.Cache
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\gradeReport\gradeReport\obj\Debug\gradeReport.exe
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\gradeReport\gradeReport\obj\Debug\gradeReport.xml
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\gradeReport\gradeReport\obj\Debug\gradeReport.pdb

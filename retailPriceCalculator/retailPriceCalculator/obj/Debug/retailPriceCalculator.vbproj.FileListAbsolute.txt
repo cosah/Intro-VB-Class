@@ -1,0 +1,11 @@
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\retailPriceCalculator\retailPriceCalculator\bin\Debug\retailPriceCalculator.exe.config
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\retailPriceCalculator\retailPriceCalculator\bin\Debug\retailPriceCalculator.exe
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\retailPriceCalculator\retailPriceCalculator\bin\Debug\retailPriceCalculator.pdb
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\retailPriceCalculator\retailPriceCalculator\bin\Debug\retailPriceCalculator.xml
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\retailPriceCalculator\retailPriceCalculator\obj\Debug\retailPriceCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\retailPriceCalculator\retailPriceCalculator\obj\Debug\retailPriceCalculator.frmRetailPriceCalc.resources
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\retailPriceCalculator\retailPriceCalculator\obj\Debug\retailPriceCalculator.Resources.resources
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\retailPriceCalculator\retailPriceCalculator\obj\Debug\retailPriceCalculator.vbproj.GenerateResource.Cache
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\retailPriceCalculator\retailPriceCalculator\obj\Debug\retailPriceCalculator.exe
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\retailPriceCalculator\retailPriceCalculator\obj\Debug\retailPriceCalculator.xml
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\retailPriceCalculator\retailPriceCalculator\obj\Debug\retailPriceCalculator.pdb
