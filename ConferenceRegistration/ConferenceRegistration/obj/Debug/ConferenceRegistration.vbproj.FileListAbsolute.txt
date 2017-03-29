@@ -1,0 +1,12 @@
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\ConferenceRegistration\ConferenceRegistration\bin\Debug\ConferenceRegistration.exe.config
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\ConferenceRegistration\ConferenceRegistration\bin\Debug\ConferenceRegistration.exe
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\ConferenceRegistration\ConferenceRegistration\bin\Debug\ConferenceRegistration.pdb
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\ConferenceRegistration\ConferenceRegistration\bin\Debug\ConferenceRegistration.xml
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.vbprojResolveAssemblyReference.cache
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.frmConfReg.resources
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.frmConfOptions.resources
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.Resources.resources
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.vbproj.GenerateResource.Cache
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.exe
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.xml
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.pdb
