@@ -1,0 +1,11 @@
+C:\Users\vmBoss\AppData\Local\Temporary Projects\bigSmallArray\bin\Debug\bigSmallArray.exe.config
+C:\Users\vmBoss\AppData\Local\Temporary Projects\bigSmallArray\bin\Debug\bigSmallArray.exe
+C:\Users\vmBoss\AppData\Local\Temporary Projects\bigSmallArray\bin\Debug\bigSmallArray.pdb
+C:\Users\vmBoss\AppData\Local\Temporary Projects\bigSmallArray\bin\Debug\bigSmallArray.xml
+C:\Users\vmBoss\AppData\Local\Temporary Projects\bigSmallArray\obj\Debug\bigSmallArray.vbprojResolveAssemblyReference.cache
+C:\Users\vmBoss\AppData\Local\Temporary Projects\bigSmallArray\obj\Debug\bigSmallArray.frmLargeSmall.resources
+C:\Users\vmBoss\AppData\Local\Temporary Projects\bigSmallArray\obj\Debug\bigSmallArray.Resources.resources
+C:\Users\vmBoss\AppData\Local\Temporary Projects\bigSmallArray\obj\Debug\bigSmallArray.vbproj.GenerateResource.Cache
+C:\Users\vmBoss\AppData\Local\Temporary Projects\bigSmallArray\obj\Debug\bigSmallArray.exe
+C:\Users\vmBoss\AppData\Local\Temporary Projects\bigSmallArray\obj\Debug\bigSmallArray.xml
+C:\Users\vmBoss\AppData\Local\Temporary Projects\bigSmallArray\obj\Debug\bigSmallArray.pdb
