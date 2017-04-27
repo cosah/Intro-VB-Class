@@ -1,0 +1,13 @@
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\karateMemberDates\karateMemberDates\bin\Debug\Karate.mdf
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\karateMemberDates\karateMemberDates\bin\Debug\Karate_log.ldf
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\karateMemberDates\karateMemberDates\bin\Debug\karateMemberDates.exe.config
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\karateMemberDates\karateMemberDates\bin\Debug\karateMemberDates.exe
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\karateMemberDates\karateMemberDates\bin\Debug\karateMemberDates.pdb
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\karateMemberDates\karateMemberDates\bin\Debug\karateMemberDates.xml
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\karateMemberDates\karateMemberDates\obj\Debug\karateMemberDates.vbprojResolveAssemblyReference.cache
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\karateMemberDates\karateMemberDates\obj\Debug\karateMemberDates.Form1.resources
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\karateMemberDates\karateMemberDates\obj\Debug\karateMemberDates.Resources.resources
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\karateMemberDates\karateMemberDates\obj\Debug\karateMemberDates.vbproj.GenerateResource.Cache
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\karateMemberDates\karateMemberDates\obj\Debug\karateMemberDates.exe
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\karateMemberDates\karateMemberDates\obj\Debug\karateMemberDates.xml
+C:\Users\vmBoss\Documents\Visual Studio 2017\Projects\karateMemberDates\karateMemberDates\obj\Debug\karateMemberDates.pdb
